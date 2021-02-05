@@ -1,0 +1,57 @@
+.container{
+    float: left;
+    height: 500px;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+img{
+    width:90%;
+    margin:10% 0 0% 10%;
+
+}
+.desc{
+    height:auto;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    float: right;
+    
+}
+.desc{
+    text-align: center;
+    padding-top:30px;
+}
+.name{
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(54, 51, 51);
+    margin-bottom: 10px;
+}
+.price{
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(240, 130, 13);
+    margin: 0 0 5px 0;
+}
+.cart{
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgb(33, 101, 10);
+    color: rgb(255, 255, 255);
+    border-radius: 3px;
+    border: 1px solid rgb(7, 106, 30);  
+    margin-bottom:20px;
+}
+.title{
+    margin:30px 0 10px 0;
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(19, 18, 18);
+}
+table, tr, td {
+    border: 1px solid rgb(34, 32, 32);
+    border-collapse: collapse;
+    font-size: 18px;
+}
+table tr td{
+    padding:5px
+}
